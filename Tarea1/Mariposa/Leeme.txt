@@ -1,0 +1,16 @@
+Fueron realizadas todas las partes del enunciado.
+
+El desarrollo y testeo fue realizado en un ambiente con las librerias que fueron instaladas en el tutorial de la auxiliar 1.
+
+Existen dos archivos de tarea, tarea.py y tareaV1.py. La entrega final es el archivo tarea.py como indica el enunciado. El resultado final de ambos archivos es super parecido, pero se diferencia en que uno está realizado unicamente con la libreria pyglet (tareaV1) y la entrega final se realizó con la libreria de PyopenGl para graficar.
+
+Para salir del programa presionar ESC.
+
+EXTRA: El paisaje de fondo corresponde al punto extra como feature no indicada en el enunciado.
+
+
+
+
+
+
+
