@@ -151,7 +151,7 @@ def on_key_press(symbol, camara):
         controller.inputTexture = "calipso.jpg"
     
     elif symbol == pyglet.window.key.D:
-        controller.inputTexture = "sun.jpg"
+        controller.inputTexture = "texture_red.jpg"
 
     else:
         print('Unknown key')
